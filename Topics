@@ -1,0 +1,38 @@
+* Do not trust what I say:
+    * My Ruby knowledge is 10 years old, ie, outdated
+    * My last professional contact with Ruby was 3 years ago
+* Tools
+    * Official website: http://ruby-lang.org
+    * Official docs: http://ruby-doc.org
+    * Gems: https://rubygems.org
+    * Rake - the "ant" of Ruby
+    * VMs / Interpreters
+        * CRuby, aka MRI (Matz's Ruby Interpreter)
+        * JRuby
+        * YARV (Yet Another Ruby VM)
+        * You can use RVM to manage the VMs. I myself have only the "system" Ruby, which is more than enough for dev
+    * IRB - Interactive Ruby
+    * IDEs/text editors
+        * No IDEs are needed. In fact, most "hard core" Rubyists don't use one.
+        * I'm not hard core: IntelliJ has nice plugins. Those are packaged into another IDE, for people who don't need the full IntelliJ: RubyMine
+        * Text editors
+            * Sublime Text: https://www.sublimetext.com
+            * vim
+            * ...
+    * Books:
+        * Pickaxe: https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
+        * Ruby Cookbook: https://www.safaribooksonline.com/library/view/ruby-cookbook-2nd/9781449373702/
+        * Alternative to Pickaxe, available on Safari: The Ruby Programming Language, but it's old.
+        * http://poignant.guide
+
+* Language
+    * Message passing vs. Method calls
+    * Everything is an object
+    * Strings
+    * Classes, interfaces, abstract classes, ...
+    * Mixins
+    * Duck typing
+    * Symbol
+    * Operator overload
+    * ?, !, <<, ++ (or lack thereof), ||=, ...
+    * Blocks and lambdas
